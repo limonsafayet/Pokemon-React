@@ -1,0 +1,110 @@
+[
+  {
+    "_id": "61505c8d8e36b20147b28a39",
+    "name": "Ivysaur",
+    "category": "Seed",
+    "abilities": "Overgrow",
+    "type": "Grass",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/002.png",
+    "power": 40
+  },
+  {
+    "_id": "61505c8d58cac7c2c92bd283",
+    "name": "Charizard",
+    "category": "Flame",
+    "abilities": "Blaze",
+    "type": "Fire",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/006.png",
+    "power": 200
+  },
+  {
+    "_id": "61505c8d1d2cd545bd75394d",
+    "name": "Pikachu",
+    "category": "Mouse",
+    "abilities": "Static",
+    "type": "Electric",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/025.png",
+    "power": 90
+  },
+  {
+    "_id": "61505c8d0fb206986832610a",
+    "name": "Ponyta",
+    "category": "Fire Horse",
+    "abilities": "Flash Fire",
+    "type": "Fire",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/077.png",
+    "power": 70
+  },
+  {
+    "_id": "61505c8d684cf7b120be170b",
+    "name": "Gastly",
+    "category": "Gas",
+    "abilities": "Levitate",
+    "type": "Poison",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/092.png",
+    "power": 110
+  },
+  {
+    "_id": "61505c8dc704dd1dd2dffa2f",
+    "name": "Staryu",
+    "category": "Star Shape",
+    "abilities": "Illuminate",
+    "type": "Water",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/120.png",
+    "power": 40
+  },
+  {
+    "_id": "61505c8d73439105d874f15b",
+    "name": "Gyarados",
+    "category": "Atrocious",
+    "abilities": "Intimidate",
+    "type": "Flying",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/130.png",
+    "power": 150
+  },
+  {
+    "_id": "61505c8d79be391c40d8d0e3",
+    "name": "Umbreon",
+    "category": "Moonlight",
+    "abilities": "Synchronize",
+    "type": "Dark",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/197.png",
+    "power": 180
+  },
+  {
+    "_id": "61505c8dae47c1b2404b7a48",
+    "name": "Beautifly",
+    "category": "Butterfly",
+    "abilities": "Swarm",
+    "type": "Bug",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/267.png",
+    "power": 60
+  },
+  {
+    "_id": "61505c8de39aa9c465cbb8fe",
+    "name": "Centiskorch",
+    "category": "Radiator",
+    "abilities": "White Smoke",
+    "type": "Fire",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/851.png",
+    "power": 200
+  },
+  {
+    "_id": "61505c8d2adfb392b7faf76e",
+    "name": "Glastrier",
+    "category": "Wild Horse",
+    "abilities": "Chilling Neigh",
+    "type": "Ice",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/896.png",
+    "power": 220
+  },
+  {
+    "_id": "61505c8d0a28bd5331c7d94c",
+    "name": "Incineroar",
+    "category": "Heel",
+    "abilities": "Blaze",
+    "type": "Dark",
+    "img": "https://assets.pokemon.com/assets/cms2/img/pokedex/full/727.png",
+    "power": 200
+  }
+]
